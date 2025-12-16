@@ -16,7 +16,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center gap-2 text-2xl font-bold">
             <Vote className="h-8 w-8 text-primary" />
             <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              VoteChain
+              SecureVote
             </span>
           </Link>
 
